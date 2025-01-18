@@ -2,7 +2,7 @@
 
 This is a continuation of Steven Brown's "Retirement Planning and Forecasting Spreadsheet for Canadians v2.7"
 
-In 2015, Steven Brown released his [Retirement Planning and Forecasting Spreadsheet for Canadians v2.0](https://pabroon.blogspot.com/2015/05/retirement-planning-and-forecasting-20.html) and it was updated until version 2.7 in 2017. It had not been updated since then. I'm putting it online so that I can update it and hopefully get others to contribute to it too.
+In 2013, Steven Brown released his [Retirement Planning and Forecasting Spreadsheet for Canadians](https://pabroon.blogspot.com/2015/05/retirement-planning-and-forecasting-20.html) and it was updated until version 2.7 in 2017. It had not been updated since then. I'm putting it online so that I can update it and hopefully get others to contribute to it too.
 
 ## What the spreadsheet does
 - It allows you to plan for you retirement, starting at any time in your life.
