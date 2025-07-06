@@ -104,3 +104,13 @@ In 2013, Steven Brown released his [Retirement Planning and Forecasting Spreadsh
 - Tax calculation does not include special provincial tax amounts (ON health premium, NT/NU refundable cost of living)		
 - Tax calculation does not include Federal and YT employment amount for NRTC		
 - Used the Federal clawback schedule to determine clawback for provincial Age Amount (the difference is quite small).		
+
+## Security
+
+The spreadsheet uses macros, and you will have to click that you trust the macros in order to use the spreadsheet.
+
+The macros are simply for tax rate lookups. If you're an Excel guru, you can peek in the file and see them.
+
+I tried prototyping removing the macros but it was essentially impossible. Large ranges of cells would each have repeated and enormously long formulas in them, making the spreadsheet unmaintainable for the future.
+
+I am disappointed that a) Excel has no way of identifying macros that simply do mathematical operations and can't possibly cause harm, and b) my experiments in creating a macro-less spreadsheet did not work.
