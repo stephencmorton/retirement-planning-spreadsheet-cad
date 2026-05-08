@@ -1,5 +1,17 @@
 # ChangeLog
 
+## v2p7p3
+
+*Changes made by Brad Forden, and are under discussion with the author for contribution to everyone.*
+
+**Oct 2018**
+
+### Enhancements
+
+- Add the complex calculation for the CPP Survivor Benefit. Thanks to Doug Runchey, writer at RetireHappy.ca and expert on CCP Survivor Benefits, for his assistance to verify the calculation.
+
+---
+
 ## v2p7p2
 
 *Changes made by Brad Forden, and are under discussion with the author for contribution to everyone.*
