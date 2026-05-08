@@ -1,5 +1,26 @@
 # ChangeLog
 
+## v2p7p2
+
+*Changes made by Brad Forden, and are under discussion with the author for contribution to everyone.*
+
+**May 2018**
+
+### Enhancements
+
+- Add support for Federal government (PSSA) type pension plans with a Bridge Benefit value.
+- Add description details about DB Survivor pension, and some fixes (details below).
+- Improve clarity how to use the "Savings/Investment" account by changing the title to what it is more commonly known as, a "Taxable" account. Updated *all* references to the old name throughout the entire spreadsheet, including the Instructions sheet.
+- Improve clarity of the annual "Other Income", "Additional Expenses", etc being before inflation, or starting year dollars. Many users were making key mistakes with large annual values, risking the accuracy of their modelled scenario.
+- Matched the chart colors between Income and Acct balance charts for ease of use. Using Acct balance chart colors that match the Canadian bill colors. :)
+
+### Bug Fixes
+
+- Fix the DB Survivor Pension clawback to NOT include the Survivor's CPP benefit.
+- The DB Survivor Pension should be receivable at any time (during employment or retirement phase). Previously it was only calculated if the survivor was in the retirement phase. Imagine an situation with a survivor being much younger, and still interested in working.
+
+---
+
 ## v2p7p1
 
 *Changes made by Brad Forden, and are under discussion with the author for contribution to everyone.*
