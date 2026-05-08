@@ -1,5 +1,18 @@
 # ChangeLog
 
+## v2p7p4
+
+*Changes made by Brad Forden, and are under discussion with the author for contribution to everyone.*
+
+**Aug 2019**
+
+### Bug Fixes
+
+- Fix the use of the new complex CPP Survivor Benefit. Remove the double counting when passed from Person 1 to Person 2.
+- More accurate implementation of the CPP Death Benefit. It belongs in Person 1's income, and the formula is actually 6 * CPP payment to a max of $2500. Not indexed for inflation, like the rest of CPP!
+
+---
+
 ## v2p7p3
 
 *Changes made by Brad Forden, and are under discussion with the author for contribution to everyone.*
